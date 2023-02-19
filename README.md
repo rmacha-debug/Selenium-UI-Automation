@@ -24,3 +24,5 @@ LoginPageUI
 RegistrationPageUI
 BackToHomeLinkTest
 
+
+![image](https://user-images.githubusercontent.com/85384797/219946942-69f32bc1-bafb-4550-9d8b-c4e9938fd0cf.png)
