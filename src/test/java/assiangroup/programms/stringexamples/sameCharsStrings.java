@@ -1,4 +1,4 @@
-package assiangroup.programms;
+package assiangroup.programms.stringexamples;
 
 import java.util.Set;
 import java.util.stream.Collectors;

@@ -1,4 +1,4 @@
-package assiangroup.programms;
+package assiangroup.programms.stringexamples;
 
 public class StringReverse {
 
