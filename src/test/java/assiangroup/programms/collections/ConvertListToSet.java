@@ -1,6 +1,7 @@
 package assiangroup.programms.collections;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.Set;
 import java.util.stream.Collectors;
 
@@ -16,7 +17,8 @@ public class ConvertListToSet {
         colors.add("Yellow");
         Set<String> setColors = colors.stream().collect(Collectors.toSet());
         System.out.println(setColors);
-
+        Set<String> setcol = new HashSet<>(colors);
+        System.out.println(setcol);
 
 
 
