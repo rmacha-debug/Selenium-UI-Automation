@@ -16,8 +16,6 @@ public class regularexpression {
         while( matcher.find() ) {
             set.add(matcher.group());
         }
-
         System.out.println(set.size());
-
     }
 }
